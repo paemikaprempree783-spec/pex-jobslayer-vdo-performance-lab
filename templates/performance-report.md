@@ -1,4 +1,4 @@
-# Pex JobSlayer Video Performance Report: [asset / decision]
+# Pex JobSlayer VDO Performance Report: [asset / decision]
 
 ## 1. Decision summary
 - **Business job:**
